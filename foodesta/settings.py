@@ -25,7 +25,7 @@ SECRET_KEY = '8gonvcolb&(^&vr*os3mc1=z4g1(&jycjnk*)bu_9g0=6%z$m1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['foodesta.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
